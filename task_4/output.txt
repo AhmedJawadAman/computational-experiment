@@ -1,0 +1,6 @@
+Case 1: the barber is a man
+Barber shaves Ivan
+Barber shaves himself (rule of the Barber class)
+
+Case 2: the barber is a woman
+Barber Anna has no beard: no need to shave, no paradox

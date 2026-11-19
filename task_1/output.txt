@@ -1,0 +1,7 @@
+Force F = 0.08528159120306185 N
+Mass error:    5.56 %
+Gravity error: 0.2 %
+Angle error:   3.33 %
+Relative error of F: 6.65 %
+Absolute error of F: 0.00567 N
+Answer: F = 0.0853 +/- 0.0057 N

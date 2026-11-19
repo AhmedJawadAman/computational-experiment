@@ -1,0 +1,6 @@
+Lost 2: False  Lost 5: False  Rubles lost: 0  Chance: 0.4  Angry: False
+Lost 2: False  Lost 5: True  Rubles lost: 5  Chance: 0.1  Angry: True
+Lost 2: True  Lost 5: False  Rubles lost: 2  Chance: 0.4  Angry: False
+Lost 2: True  Lost 5: True  Rubles lost: 7  Chance: 0.1  Angry: True
+
+Chance the stepmother stays calm: 0.8
